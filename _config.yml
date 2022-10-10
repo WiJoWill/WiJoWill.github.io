@@ -16,13 +16,13 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "/haijianwu.pdf", title: "Resume", icon: home}
+  - {file: "/haijianwu.pdf", title: "Resume"}
   - {file: "README.md", title: "Project"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:hw2894@columbia.edu"}
   - {title: Github, icon: github, url: "https://github.com/WiJoWill"}
-  - {title: LinkedIn, icon: linedin-in, url: "https://www.linkedin.com/in/haijianwu/"}
+  - {title: LinkedIn, icon: linedin, url: "https://www.linkedin.com/in/haijianwu/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
