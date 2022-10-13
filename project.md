@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Home"
+title: "Project"
 ---
 
 {% if site.show_excerpts %}
