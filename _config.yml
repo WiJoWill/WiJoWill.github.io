@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "https://github.com/WiJoWill/WiJoWill.github.io/blob/b8e6202de88f088f56df1d587d4d9ab31e3e9542/HaijianWuResume.pdf", title: "Resume"}
+  - {file: "HaijianWuResume.pdf", title: "Resume", url: "https://github.com/WiJoWill/WiJoWill.github.io/blob/b8e6202de88f088f56df1d587d4d9ab31e3e9542/HaijianWuResume.pdf"}
   - {file: "project.md", title: "Project"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
