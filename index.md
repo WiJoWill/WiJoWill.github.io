@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About Me"
+title: ""
 ---
 
 I am a studnet in Master of Science in Business Analytics program at the Columbia University, Fu Foundation School of Engineering and Applied Science.
