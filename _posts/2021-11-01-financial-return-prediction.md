@@ -17,6 +17,6 @@ The financial data is provided by a Chicago Financial Technology company.
 
 ### Main results
 Part 1 
-{% include embed.html url="https://github.com/WiJoWill/WiJoWill.github.io/blob/master/project_files/415part1.pdf" %}  
+{% include embed.html url="project_files/415part1.pdf" %}  
 Part 2 
 {% include embed.html url="https://github.com/WiJoWill/WiJoWill.github.io/blob/master/project_files/415part2.pdf" %}  
