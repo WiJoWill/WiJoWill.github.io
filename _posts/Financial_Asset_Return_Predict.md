@@ -1,4 +1,9 @@
-## Financial Asset Return Prediction
+---
+title:  "Financial Asset Return Predictions"
+mathjax: true
+layout: post
+categories: project
+---
 
 ### Main Purpose
 Analyze price of financial assets and corresponding forward returns.  
