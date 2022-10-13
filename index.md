@@ -8,7 +8,7 @@ I expect to graduate in Dec 2023 and am interested in the positions including bu
 in the fields of Financial Service, Financial Technology, IT Technology, Marketing, Health, etc. I am currently looking forward to internship opportunities in Summer 2023.
 Please Email to me or message me through LinkedIn (both can be found at the bottom of the home page)  
 
-In this website, I post some of my projects in data analysis. Please go through Projects to have a look. Thank you.
+In this website, I post some of my projects about data analysis in different fields. Please go through Projects to have a look. Thank you.
 
 
 
