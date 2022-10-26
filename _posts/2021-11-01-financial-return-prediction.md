@@ -16,7 +16,6 @@ The financial data is provided by a Chicago Financial Technology company.
 2. Model building to predcit return 
 
 ### Main results
-Part 1 
-{% include embed.html url="https://github.com/WiJoWill/WiJoWill.github.io/raw/master/project_files/415part1.pdf" %}  
+Part 1  
 Part 2 
 {% include embed.html url="https://github.com/WiJoWill/WiJoWill.github.io/blob/master/project_files/415part2.pdf" %}  
