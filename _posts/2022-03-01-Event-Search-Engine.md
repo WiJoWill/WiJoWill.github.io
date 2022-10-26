@@ -22,3 +22,4 @@ Poster
 ![poster](/assets/PosterImage.png)
 Report
 {% include embed.html url="https://github.com/WiJoWill/WiJoWill.github.io/blob/master/assets/486_project_final_report.pdf" %}
+<a href="WiJoWill.github.io/assets/486_project_final_report.pdf" target="_blank">PDF.</a>
