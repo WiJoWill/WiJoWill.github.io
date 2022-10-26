@@ -21,4 +21,4 @@ Crawling data from different event pages at university of michigan
 Poster
 ![poster](/assets/PosterImage.png)
 Report
-{% include embed.html url="https://github.com/WiJoWill/WiJoWill.github.io/blob/master/project_files/486_project_final_report.pdf" %}  
+<a href="/project/University of Michigan Events Search Engine Poster Presentation.pdf">example</a>.</p>
