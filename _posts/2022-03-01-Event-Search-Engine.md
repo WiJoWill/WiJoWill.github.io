@@ -4,7 +4,7 @@ mathjax: true
 layout: post
 categories: project
 ---
-Search Engine Building and Information Retrieval Analysis
+Search Engine Building and Information Retrieval Analysis  
 ![poster](/assets/PosterImage.png)
 
 
@@ -21,7 +21,7 @@ Crawling data from different event pages at university of michigan
 4. Improve performance of efficiency by evaluating users' feedback
 
 ## Main results
-Poster
+Poster & Report  
 ![poster](/assets/PosterImage.png)
-Report
+
 {% include embed.html url="https://github.com/WiJoWill/WiJoWill.github.io/raw/master/assets/486_project_final_report.pdf" %}
