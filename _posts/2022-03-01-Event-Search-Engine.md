@@ -5,6 +5,7 @@ layout: post
 categories: project
 ---
 Search Engine Building and Information Retrieval Analysis
+![poster](/assets/PosterImage.png)
 
 
 ## Main Purpose
@@ -23,4 +24,4 @@ Crawling data from different event pages at university of michigan
 Poster
 ![poster](/assets/PosterImage.png)
 Report
-{% include embed.html url="https://github.com/WiJoWill/WiJoWill.github.io/blob/master/assets/486_project_final_report.pdf" %}
+{% include embed.html url="https://github.com/WiJoWill/WiJoWill.github.io/raw/master/assets/486_project_final_report.pdf" %}
