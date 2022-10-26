@@ -22,4 +22,3 @@ Poster
 ![poster](/assets/PosterImage.png)
 Report
 ![report](/assets/486_project_final_report.pdf)
-<iframe src="https://github.com/WiJoWill/WiJoWill.github.io/blob/master/assets/486_project_final_report.pdf"> </iframe>
