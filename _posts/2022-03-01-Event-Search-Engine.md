@@ -21,4 +21,4 @@ Crawling data from different event pages at university of michigan
 Poster
 ![poster](/assets/PosterImage.png)
 Report
-<iframe src="https://github.com/WiJoWill/WiJoWill.github.io/blob/master/project_files/486_project_final_report.pdf"></iframe>
+<iframe src="https://github.com/WiJoWill/WiJoWill.github.io/blob/master/assets/486_project_final_report.pdf"></iframe>
