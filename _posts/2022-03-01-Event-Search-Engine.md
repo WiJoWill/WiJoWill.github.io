@@ -22,3 +22,4 @@ Poster
 ![poster](/assets/PosterImage.png)
 Report
 ![report](/assets/486_project_final_report.pdf)
+{% include embed.html url="https://github.com/WiJoWill/WiJoWill.github.io/blob/master/assets/486_project_final_report.pdf" %}
