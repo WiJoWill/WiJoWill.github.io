@@ -4,6 +4,8 @@ mathjax: true
 layout: post
 categories: project
 ---
+Search Engine Building and Information Retrieval Analysis
+
 
 ## Main Purpose
 Build an search engine about University of Michigan Events and making analysis for engine.  
