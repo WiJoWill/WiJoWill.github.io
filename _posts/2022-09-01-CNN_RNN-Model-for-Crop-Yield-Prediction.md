@@ -22,6 +22,6 @@ Khatel et al (2020)
 
 ## Main results
 Poster & Report  
-![poster](/assets/EIB_Poster.png)
+![poster](/assets/EIB3_Poster.png)
 
-{% include embed.html url="[https://github.com/WiJoWill/WiJoWill.github.io/raw/master/assets/486_project_final_report.pdf](https://drive.google.com/file/d/1lbc--YpZxBZwZvTljrASQW7-WIHu-uKl/view?usp=share_link)" %}
+{% include embed.html url="https://drive.google.com/file/d/1lbc--YpZxBZwZvTljrASQW7-WIHu-uKl/view?usp=share_link" %}
