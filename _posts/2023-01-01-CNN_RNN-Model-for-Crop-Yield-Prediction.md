@@ -5,7 +5,7 @@ layout: post
 categories: project
 ---
 ## CNN-RNN Models for Crop Yield Prediction
-
+![poster](/assets/EIB3_Poster.png)
 
 #### Keywords: deep learning, CNN, RNN, LSTM, clustering
  
