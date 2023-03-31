@@ -4,7 +4,6 @@ mathjax: true
 layout: post
 categories: project
 ---
-## CNN-RNN Models for Crop Yield Prediction
 #### Keywords: deep learning, CNN, RNN, LSTM, clustering
 ![poster](/assets/EIB3_Poster.png)
 
