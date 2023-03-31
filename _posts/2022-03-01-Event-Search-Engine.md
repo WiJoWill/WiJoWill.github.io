@@ -3,8 +3,7 @@ title:  "Event-Search-Engine and NLP Analysis"
 mathjax: true
 layout: post
 categories: project
----
-## Search Engine Building and Information Retrieval Analysis  
+---  
 #### Keywords: NLP, TF-IDF, inverted indexed matrix, web scrawling, word2vec
 ![poster](/assets/PosterImage.png)
 
