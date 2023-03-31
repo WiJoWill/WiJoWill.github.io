@@ -4,24 +4,14 @@ mathjax: true
 layout: post
 categories: project
 ---
-Search Engine Building and Information Retrieval Analysis  
+## Search Engine Building and Information Retrieval Analysis  
+#### Keywords: NLP, TF-IDF, inverted indexed matrix, web scrawling, word2vec
 ![poster](/assets/PosterImage.png)
 
 
-## Main Purpose
-Build an search engine about University of Michigan Events and making analysis for engine.  
+### Description
+This project is designed to facilitate student involvement in campus activities. Our team constructs an event search engine for UM Ann Arbor campus that allows users to search for activities of interest and makes corresponding analysis for its performance. The engine crawls information from event websites of different schools and then employs semantic query expansion, usage of the vector space model with tf-idf, BART pretrained model, and query optimization to make a search engine. 
 
-## Data Source
-Crawling data from different event pages at university of michigan   
+This report includes our problem description, followed by a description of our data collection and crawler designs. There is also a description of the evaluation metrics we used and the results. A list of related works, some data samples and output examples are also included.
 
-## Stages
-1. Crawl data from web and build a database 
-2. Use Inverted Index matrix to build a search engine
-3. Use word2vec to output summary
-4. Improve performance of efficiency by evaluating users' feedback
-
-## Main results
-Poster & Report  
-![poster](/assets/PosterImage.png)
-
-{% include embed.html url="https://github.com/WiJoWill/WiJoWill.github.io/raw/master/assets/486_project_final_report.pdf" %}
+Report: Please mail to me (hw2894@columbia.edu) or through the mail symbol at the right bottom.
