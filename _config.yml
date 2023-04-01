@@ -18,7 +18,6 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {url: "/HaijianWuResume.pdf", title: "Resume"}
   - {file: "project.md", title: "Projects"}
-  - {file: "activity.md", title: "Activities"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:hw2894@columbia.edu"}
