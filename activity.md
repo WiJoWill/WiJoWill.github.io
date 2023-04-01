@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "Activity"
 ---
 #### This part mainly records some interesting activities I attended. If you would like to know more information, please contact me through email.
