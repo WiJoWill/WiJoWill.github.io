@@ -2,7 +2,7 @@
 layout: default
 title: "Activity"
 ---
-#### This part mainly records some interesting activities I attended. If you would like to know more information, please let me know.
+#### This part mainly records some interesting activities I attended. If you would like to know more information, please contact me through email.
 
 #### 2023 IMC Prosperity Trading
 IMC prosperity trading is a 10-day continuously high-frequency trading challenge. Every year, 7000+ teams, which each consist of five members, attend this competition. The competition is designed for high-frequency trading of virtual assets, and competitors are required to write python files to execute algorimic trading and also utilize their knowledge in finance, business, mathematics, economics, etc to make manual trading.
