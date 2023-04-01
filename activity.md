@@ -6,5 +6,5 @@ title: "Activity"
 {% if site.show_excerpts %}
   {% include home.html %}
 {% else %}
-  {% include archive.html title="Activities" %}
+  {% include archive.html title="activities" %}
 {% endif %}
