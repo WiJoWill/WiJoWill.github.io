@@ -25,5 +25,9 @@ Reserve (aFRR), which is a faster-acting reserve capacity that is needed to bala
 generation or demand and the price for downward balancing energy (DBE), which is additional power that is needed to balance the 
 system when the supply of electricity exceeds the demand.
 
+This is a sample image of simulation results:
+
+![poster](/assets/LSTM-result.png)
+
 Report: Please mail to me (hw2894@columbia.edu) or through the mail symbol at the right bottom.
 
