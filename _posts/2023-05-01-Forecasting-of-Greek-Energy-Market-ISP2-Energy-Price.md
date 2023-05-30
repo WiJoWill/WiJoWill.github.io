@@ -6,6 +6,7 @@ categories: project
 ---
 #### Keywords: European energy market, price prediction, LSTM, DNN-LSTM, modern RNN, Time-series analysis
 
+
 ### Description:
 EnergyLive is a European power market data platform based in Greece. It aims to give investors, executives, and traders 
 an overview of electricity market prices, mainly focusing on European electricity market data and analysis. The platform 
