@@ -4,7 +4,7 @@ title: ""
 ---
 
 I am a student in Master of Science in Business Analytics program at the Columbia University, Fu Foundation School of Engineering and Applied Science. Before that, I achieved the Bachelor of Science in Mathematics and Data Science (double major), minoring in Physics and Creative Writing at University of Michigan at Ann Arbor.
-I expect to graduate in December 2023 from Columbia University and am interested in the positions including but not limited to Data Analyst, Data Scientist, Quantitative Researcher/Analyst, Business Analyst in the fields of Financial Service, Financial Technology, IT Technology, Marketing, Health, etc.
+I expect to graduate in December 2023 from Columbia University and am interested in the positions including but not limited to Quantitative Researcher/Analyst, Data Analyst, Data Scientist, Business Analyst in the fields of Financial Service, Financial Technology, IT Technology, Marketing, Health, etc.
 
 My main technical stack is:
 1. Mathematics and Statistics: mathematical modeling, probability and statisitcs, regression analysis, data mining, numerical methods, financial mathematics, analysis, calculus, stochastic process.
