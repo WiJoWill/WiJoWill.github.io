@@ -6,6 +6,7 @@ categories: project
 ---
 #### Keywords: Log-normal Dynamics, Hull-White Short Rate Model, Forward Rate Pricing, Non-linear Pricing, Monte-Carlo Simulation, Calibration
 
+
 ### Description:
 This project entailed the construction of a complex quantitative model to value a $1 million notional quanto contract tied to the EUROSTOXX50 index. 
 It involved synthesizing log-normal equity modeling techniques for European market simulation and integrating an enhanced 
